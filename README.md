@@ -1,1 +1,20 @@
-# case-2-javasrcipt-ajax
+
+# Case 2 - Javascript & AJAX
+
+Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan menggunakan php server yang di implementasi kan dengan javascript, php, dan javascript
+
+## Authors
+
+- [@zhafa anbiya ananta farrel](https://www.github.com/zhafaanbiya311)
+- [@kartika putri dewayani](https://www.github.com/octokatherine)
+- [@eunike octavia kowal](https://www.github.com/)
+
+---
+
+![](https://img.shields.io/badge/PHP-Programming-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/JavaScript-Programming-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/HTML-Markup-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/CSS-Stylesheet-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
