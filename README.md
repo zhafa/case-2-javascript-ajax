@@ -11,10 +11,10 @@ Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan men
 
 ---
 
-![](https://img.shields.io/badge/PHP-Programming-informational?style=flat&logo=php&logoColor=white&color=blue)
+![](https://img.shields.io/badge/PHP-Programming-informational?style=flat&logo=php&logoColor=white&color=purple)
 
-![](https://img.shields.io/badge/JavaScript-Programming-informational?style=flat&logo=javascript&logoColor=white&color=red)
+![](https://img.shields.io/badge/JavaScript-Programming-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 
-![](https://img.shields.io/badge/HTML-Markup-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-Markup-informational?style=flat&logo=html5&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/CSS-Stylesheet-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Stylesheet-informational?style=flat&logo=css3&logoColor=white&color=orange)
