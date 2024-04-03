@@ -6,8 +6,8 @@ Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan men
 ## Authors
 
 - [@zhafa anbiya ananta farrel](https://www.github.com/zhafaanbiya311)
-- [@kartika putri dewayani](https://www.github.com/octokatherine)
-- [@eunike octavia kowal](https://www.github.com/)
+- [@kartika putri dewayani](https://github.com/kartikapdy)
+- [@eunike octavia kowal](https://github.com/viakowal)
 
 ---
 
