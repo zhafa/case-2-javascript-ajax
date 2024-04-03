@@ -76,24 +76,26 @@
 	</style>
 	</head>
   <body>
+  <?php include 'template/headers.html'; ?>
+	<!-- Backgroun Website -->
 	<div class="container-fluid p-0">
 		<video autoplay muted loop id="myVideo">
 		  <source src="bg.mp4" type="video/mp4">
 		</video>
+	</div>
 
+	<!-- tulisan selamat datang -->
+	<div class="center-text">
+		<p>Selamat Datang Di Chat Kuy<br> 
+			aplikasi chat kelompok 10</p>
+	</div>
 
-		<!-- tulisan selamat datang -->
-		<div class="center-text">
-			<p>Selamat Datang Di Chat Kuy<br> 
-				aplikasi chat kelompok 10</p>
-		</div>
-
-
+	<!-- Tombol untuk mengarahkan ke popup -->
 	<button style="bottom:85px; right: 15px; position: absolute;"  type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#chatModal">
 		<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-dots-fill" viewBox="0 0 16 16">
 		<path d="M16 8c0 3.866-3.582 7-8 7a9 9 0 0 1-2.347-.306c-.584.296-1.925.864-4.181 1.234-.2.032-.352-.176-.273-.362.354-.836.674-1.95.77-2.966C.744 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7M5 8a1 1 0 1 0-2 0 1 1 0 0 0 2 0m4 0a1 1 0 1 0-2 0 1 1 0 0 0 2 0m3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
-		  </svg>
-	  </button>
+		</svg>
+	</button>
 
 	  
 	  <!-- Modal -->
@@ -116,14 +118,6 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 	<script src="chat.js"></script>
-
+	<?php include 'template/footers.html'; ?>
 </body>
-<footer id="footer">
-	<div class="container-fixed">
-		<p>
-			Kelompok 11<br>
-			1. Zhafa Anbiya Ananta Farrel | 2. Kartika Putri Dewayani  |  3. Eunike Octavia Kowal.
-		</p>
-	</div>
-</footer>
 </html>
