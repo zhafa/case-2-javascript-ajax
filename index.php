@@ -102,14 +102,25 @@
 	  <div class="modal fade" id="chatModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered">
 		  <div class="modal-content">
-			<div class="modal-header">
+			
+		  <div class="modal-header">
 			  <h5 class="modal-title" id="exampleModalLabel">chat kuy</h5>
+
+			  <!-- nge trigger modal -->
 			  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 			</div>
+
+			<!-- box chat yang sudah ter-unhide -->
 			<div class="modal-body">
 			  <div id="chatbox"></div>
+
+			  <!-- form untuk username -->
 			  <input type="text" id="username" class="form-control mb-2" placeholder="Enter your username...">
+			  
+			  <!-- form untuk password -->
 			  <input type="text" id="message" class="form-control mb-2" placeholder="Type your message here...">
+			  
+			  <!-- button untuk kirim -->
 			  <button onclick="sendMessage()" class="btn btn-primary">Kirim</button>
 			</div>
 		  </div>
