@@ -1,7 +1,7 @@
 
 # Case 2 - Javascript & AJAX
 
-Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan menggunakan php server yang di implementasi kan dengan javascript, php, dan javascript
+Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan menggunakan php  yang di implementasi kan dengan  beberapa bahasa javascript sebagai manipulasi , html sebagai rangka dan styling css, dan .txt digunakan untuk penyimpanan transkrip dialog dengan menggunakan timestamp 
 
 ## Authors
 
