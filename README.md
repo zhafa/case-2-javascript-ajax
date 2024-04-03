@@ -9,6 +9,8 @@ Program ini dibuat adalah sistem chat yang digunakan secara sederhana dengan men
 - [@kartika putri dewayani](https://github.com/kartikapdy)
 - [@eunike octavia kowal](https://github.com/viakowal)
 
+## Cuplikan
+
 ---
 
 ![](https://img.shields.io/badge/PHP-Programming-informational?style=flat&logo=php&logoColor=white&color=purple)
